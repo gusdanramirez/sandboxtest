@@ -1,10 +1,10 @@
 import "./styles.css";
 
 document.getElementById("app").innerHTML = `
-<h1>Hello Vanilla!</h1>
+<h1>Hola Vanilla!</h1>
 <div>
-  We use the same configuration as Parcel to bundle this sandbox, you can find more
-  info about Parcel 
+  Utilizamos la misma configuración que  Parcel para empaquetar éste sandbox, Puedes encontrar más información 
+  acerca de Parcel 
   <a href="https://parceljs.org" target="_blank" rel="noopener noreferrer">here</a>.
 </div>
 `;
